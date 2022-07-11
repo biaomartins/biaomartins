@@ -24,5 +24,5 @@
   </div>
 
 ##
-      
+      ![Snake animation](https://github.com/biaomartins/biaomartins/blob/output/github-contribution-grid-snake.svg)
   
