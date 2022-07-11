@@ -22,7 +22,6 @@
       <a href ="mailto:biaaomartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href ="https://open.spotify.com/user/2137zpcd4iyogdu4j6qksf5sq?si=d869788406904785"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   </div>
-
-##
-      ![Snake animation](https://github.com/biaomartins/biaomartins/blob/output/github-contribution-grid-snake.svg)
+      
+![Snake animation](https://github.com/biaomartins/biaomartins/blob/output/github-contribution-grid-snake.svg)
   
