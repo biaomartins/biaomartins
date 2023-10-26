@@ -1,4 +1,4 @@
-## Oi! Me chamo Beatriz, mas pode me chamar de Bia :)
+## Oi!
 
 <div align="center">
   <a href="https://github.com/biaomartins">
